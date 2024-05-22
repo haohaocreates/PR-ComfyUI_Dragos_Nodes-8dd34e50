@@ -1,0 +1,14 @@
+[project]
+name = "comfyui_dragos_nodes"
+description = "Nodes:File Padding, Image Info, VAE Loader With Name"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/drago87/ComfyUI_Dragos_Nodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI_Dragos_Nodes"
+Icon = ""
